@@ -1,2 +1,9 @@
 # Algoritmos-e-Logica2025
-Repositório para a disciplina Algoritmos e Lógica da Fatec - 1° Semestre 2025
+Aluno: João Vitor Castilho Mattos
+Curso: Análise e Desenvolvimento de Sistemas
+Semestre: 1º semestre de 2025
+
+Este repositório contém as atividades e exercícios desenvolvidos ao longo do semestre para a disciplina de Algoritimos e Lógica de Programação.
+
+📝Linguagem Utilizada: Python
+💻IDE: VS Code
