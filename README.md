@@ -1,3 +1,4 @@
+🇧🇷
 # Algoritmos-e-Logica2025
 Aluno: João Vitor Castilho Mattos
 Curso: Análise e Desenvolvimento de Sistemas
@@ -7,3 +8,14 @@ Este repositório contém as atividades e exercícios desenvolvidos ao longo do 
 
 📝Linguagem Utilizada: Python
 💻IDE: VS Code
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🇺🇸
+# Algorithms-and-Programming-Logic2025
+Student: João Vitor Castilho Mattos
+Course: Analysis and Systems Development
+Term: 1st Semester 2025
+
+This repository contains the activities and exercises developed throughout the semester for the Algorithms and Programming Logic course.
+
+📝 Language: Python
+💻 IDE: VS Code
