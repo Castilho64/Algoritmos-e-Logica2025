@@ -6,8 +6,8 @@ Semestre: 1º semestre de 2025
 
 Este repositório contém as atividades e exercícios desenvolvidos ao longo do semestre para a disciplina de Algoritimos e Lógica de Programação.
 
-📝Linguagem Utilizada: Python
-💻IDE: VS Code
+📝 Language: Python
+💻 IDE: VS Code
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🇺🇸
 # Algorithms-and-Programming-Logic2025
